@@ -1,0 +1,15 @@
+{
+  "name": "Light Novels Extension",
+  "description": "Helps out with navigating light novels.",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+      "default_popup": "index.html",
+      "default_title": "Light Novels Extension"
+  },
+  "icons": {
+      "16": "favicon.png",
+      "48": "favicon.png",
+      "128": "favicon.png"
+  }
+}
