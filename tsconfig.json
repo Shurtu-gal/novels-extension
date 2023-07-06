@@ -20,6 +20,6 @@
 		"noUnusedParameters": true,
 		"noFallthroughCasesInSwitch": true
 	},
-	"include": ["src"],
+	"include": ["src", "scripts/getContentScriptObjects.ts"],
 	"references": [{ "path": "./tsconfig.node.json" }]
 }
